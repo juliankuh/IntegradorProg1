@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(46, 46, 46);
+}
+
+.Titulo {
+    font-size: 50px;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+
+.Subtitulos {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.Img {
+    width: 300px;
+    height: 400px;
+    border: solid 5px blueviolet;
+    margin: 20px;
+}
+
+.Logo {
+    width: 150px;
+    height: 90px;
+}
+
+.Img {
+    transition: transform .2s; 
+}
+ 
+.Img:hover {
+    transform: scale(1.25); 
+}
