@@ -60,3 +60,21 @@ body{
     transform: scale(1.075); 
     filter: grayscale(75%); 
 }
+
+.Categorias {
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+
+.DescripcionFoto {
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+}
+
+.VideoTopgun {
+    height: 400px;
+    width: 900px;
+}
